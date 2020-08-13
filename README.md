@@ -10,4 +10,4 @@ Colorado prides itself on the number of craft breweries which have opened within
 
 A more detailed nation-wide analysis of the beer market can be found here from the [Brewer's Association](https://www.brewersassociation.org/statistics-and-data/national-beer-stats/):
 
-__Generally, the current market is favoring the *expansion* of craft beer at the expense of bi name-brand pilsner beers.__
+__Generally, the current market is favoring the *expansion* of craft beer at the expense of name-brand pilsner beers.__
