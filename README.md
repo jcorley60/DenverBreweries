@@ -1,6 +1,7 @@
 # DenverBreweries
 An analysis of the existing brewery market within the Denver Metro area using the latest location data and intelligence offered by Foursquare.  
 **Business Goal**: 
+
 Determine an ideal neighborhood for a new craft brewery based upon data captured for the existing local market.  This is meant to provide a detailed market summary of existing local breweries for investors interested in financing the construction of a new brewery.
 
 ## Market Research:
