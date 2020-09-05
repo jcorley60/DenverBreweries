@@ -1,5 +1,5 @@
 # DenverBreweries
-An analysis of the existing brewery market within the Denver Metro area using the latest location data and intelligence offered by Foursquare.  
+An analysis of the existing brewery market within the Denver Metro area using the latest location data and intelligence offered by Foursquare in conjunction with US Census data.  
 **Business Goal**: Determine an ideal neighborhood for a new craft brewery based upon data captured for the existing local market.
 
 ## Market Research:
@@ -10,4 +10,4 @@ Colorado prides itself on the number of craft breweries which have opened within
 
 A more detailed nation-wide analysis of the beer market can be found here from the [Brewer's Association](https://www.brewersassociation.org/statistics-and-data/national-beer-stats/):
 
-__Generally, the current market is favoring the *expansion* of craft beer at the expense of bi name-brand pilsner beers.__
+__Generally, the current market is favoring the *expansion* of craft beer at the expense of name-brand pilsner beers.__
